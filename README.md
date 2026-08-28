@@ -58,6 +58,12 @@ The buttons use the Raspberry Pi Pico's internal pull-up resistors, so external 
 
 A current-limiting resistor should be connected in series with the LED.
 
+## Circuit / Schematic
+
+Add the circuit diagram or schematic here.
+
+![Logic Gate Simulator Schematic](schematic.png)
+
 ## Controls
 
 ### Input A Button
