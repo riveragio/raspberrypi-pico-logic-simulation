@@ -60,8 +60,6 @@ A current-limiting resistor should be connected in series with the LED.
 
 ## Circuit / Schematic
 
-Add the circuit diagram or schematic here.
-
 ![Logic Gate Simulator Schematic](schematic.png)
 
 ## Controls
